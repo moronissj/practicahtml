@@ -1,0 +1,34 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+
+p span{
+    color: purple;
+}
+
+.estilito-class{
+    color: darkorange;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#estilito-id{
+    color: palevioletred;
+    font-family: cursive;
+}
+
+p#aviso{
+    color: lawngreen;
+    font-family: 'Lucida Sans Unicode';
+}
+
+div #aviso2{
+    color: aqua;
+    font-family: "cambria";
+}
+
+
+div, #aviso{
+    background-color: black;
+    color: white;
+}
